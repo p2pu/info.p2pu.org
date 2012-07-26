@@ -1,12 +1,13 @@
     /* tooltip styling. by default the element to be styled is .tooltip  */
   .tooltip {
     display:none;
-    background:transparent url(/wp-includes/images/people-tooltip.png);
+    background:transparent url(/wp-includes/images/people-tooltip.jpg);
     background-repeat:no-repeat;  
     font-size:12px;
     height:280px;
     width:242px;
     padding:25px;
+    padding-top:15px;
     margin:0px;
     color:#eee;
   }
@@ -24,15 +25,15 @@
   }
 
   .tooltip .title{
-    font: 10pt Droid Sans;
+    font: 10pt Helvetica;
   }
 
   .tooltip .interline-2{
-    font: 10pt Droid Sans;
+    font: 10pt Helvetica;
   }
 
   .tooltip .description{
-    font: 11pt Droid Sans;
+    font: 11pt Helvetica;
   }
  
      /* style the trigger elements */

@@ -76,7 +76,7 @@
           return $(e.image.element).tooltip({
             'tooltipcontentclass': 'tooltip-content',
             'position': 'bottom center',
-            'offset': [-52, 76]
+            'offset': [-5, 76]
           });
         });
       };
